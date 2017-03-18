@@ -12,7 +12,7 @@
         <!--LoginScreen-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController storyboardIdentifier="ViewController" id="BYZ-38-t0r" userLabel="LoginScreen" customClass="ViewController" customModule="prefect_log_temp_caseinsensitive_rename" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="ViewController" id="BYZ-38-t0r" userLabel="LoginScreen" customClass="ViewController" customModule="prefect_log" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
                         <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
@@ -108,7 +108,7 @@
         <!--Abhyasi List-->
         <scene sceneID="b9A-UB-YDb">
             <objects>
-                <viewController id="Omr-Jq-gYI" customClass="ListAbhyasis" customModule="prefect_log_temp_caseinsensitive_rename" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="Omr-Jq-gYI" customClass="ListAbhyasis" customModule="prefect_log" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="ZYv-Pp-P0e"/>
                         <viewControllerLayoutGuide type="bottom" id="X0j-KC-UuV"/>
@@ -151,7 +151,7 @@
         <!--Add Abhyasi-->
         <scene sceneID="Etj-1X-puF">
             <objects>
-                <viewController storyboardIdentifier="AddOrEditAbhyasiVC" title="Add Abhyasi" id="Ve0-8p-WWX" customClass="AddAbhyasi" customModule="prefect_log_temp_caseinsensitive_rename" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="AddOrEditAbhyasiVC" title="Add Abhyasi" id="Ve0-8p-WWX" customClass="AddAbhyasi" customModule="prefect_log" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="JsF-Xo-CcN"/>
                         <viewControllerLayoutGuide type="bottom" id="59C-du-GWM"/>
@@ -266,7 +266,7 @@
         <!--Prefect-Log-->
         <scene sceneID="C7G-kf-fPq">
             <objects>
-                <viewController id="kZM-RT-WOQ" customClass="MainScreen" customModule="prefect_log_temp_caseinsensitive_rename" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="kZM-RT-WOQ" customClass="MainScreen" customModule="prefect_log" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="oCh-51-kXg"/>
                         <viewControllerLayoutGuide type="bottom" id="Wqq-Ud-3lK"/>
@@ -371,7 +371,7 @@
         <!--Log Ind Sitting-->
         <scene sceneID="grt-zH-b13">
             <objects>
-                <viewController id="OIh-sL-Qzg" customClass="LogIndSitting" customModule="prefect_log_temp_caseinsensitive_rename" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="OIh-sL-Qzg" customClass="LogIndSitting" customModule="prefect_log" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Lvc-HD-vGo"/>
                         <viewControllerLayoutGuide type="bottom" id="Lmy-gi-uM1"/>
@@ -500,7 +500,7 @@
         <!--Log Group Sitting-->
         <scene sceneID="OBa-Qo-0bS">
             <objects>
-                <viewController id="eML-rH-80A" customClass="LogGroupSitting" customModule="prefect_log_temp_caseinsensitive_rename" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="eML-rH-80A" customClass="LogGroupSitting" customModule="prefect_log" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="VMG-1T-GZx"/>
                         <viewControllerLayoutGuide type="bottom" id="jiH-Co-sc4"/>
