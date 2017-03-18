@@ -38,10 +38,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2E5B9C3D1E729BE900DECDEA /* README.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = README.rtf; sourceTree = "<group>"; };
-		2E726F3E1E66A6F6008E306A /* MainScreen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainScreen.swift; sourceTree = "<group>"; };
-		2E726F471E6D0554008E306A /* LogIndSitting.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogIndSitting.swift; sourceTree = "<group>"; };
-		2E726F491E6D061A008E306A /* LogGroupSitting.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogGroupSitting.swift; sourceTree = "<group>"; };
+		2E5B9C3D1E729BE900DECDEA /* README.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; name = README.rtf; path = "prefect-log/README.rtf"; sourceTree = SOURCE_ROOT; };
+		2E726F3E1E66A6F6008E306A /* MainScreen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MainScreen.swift; path = "prefect-log/MainScreen.swift"; sourceTree = SOURCE_ROOT; };
+		2E726F471E6D0554008E306A /* LogIndSitting.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LogIndSitting.swift; path = "prefect-log/LogIndSitting.swift"; sourceTree = SOURCE_ROOT; };
+		2E726F491E6D061A008E306A /* LogGroupSitting.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LogGroupSitting.swift; path = "prefect-log/LogGroupSitting.swift"; sourceTree = SOURCE_ROOT; };
 		2E726F4D1E6D31CE008E306A /* IQNSArray+Sort.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "IQNSArray+Sort.swift"; sourceTree = "<group>"; };
 		2E726F4E1E6D31CE008E306A /* IQUIScrollView+Additions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "IQUIScrollView+Additions.swift"; sourceTree = "<group>"; };
 		2E726F4F1E6D31CE008E306A /* IQUITextFieldView+Additions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "IQUITextFieldView+Additions.swift"; sourceTree = "<group>"; };
@@ -60,15 +60,15 @@
 		2E726F5F1E6D31CE008E306A /* IQToolbar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IQToolbar.swift; sourceTree = "<group>"; };
 		2E726F601E6D31CE008E306A /* IQUIView+IQKeyboardToolbar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "IQUIView+IQKeyboardToolbar.swift"; sourceTree = "<group>"; };
 		2E726F621E6D31CE008E306A /* IQKeyboardManager.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = IQKeyboardManager.bundle; sourceTree = "<group>"; };
-		2E726F781E6FB675008E306A /* AddAbhyasi.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddAbhyasi.swift; sourceTree = "<group>"; };
-		2E726F7A1E6FEA9E008E306A /* ListAbhyasis.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListAbhyasis.swift; sourceTree = "<group>"; };
+		2E726F781E6FB675008E306A /* AddAbhyasi.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AddAbhyasi.swift; path = "prefect-log/AddAbhyasi.swift"; sourceTree = SOURCE_ROOT; };
+		2E726F7A1E6FEA9E008E306A /* ListAbhyasis.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ListAbhyasis.swift; path = "prefect-log/ListAbhyasis.swift"; sourceTree = SOURCE_ROOT; };
 		2EC585241E64074F00CA4E02 /* prefect-log.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "prefect-log.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2EC585271E64074F00CA4E02 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		2EC585291E64074F00CA4E02 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		2EC585271E64074F00CA4E02 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = "prefect-log/AppDelegate.swift"; sourceTree = SOURCE_ROOT; };
+		2EC585291E64074F00CA4E02 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ViewController.swift; path = "prefect-log/ViewController.swift"; sourceTree = SOURCE_ROOT; };
 		2EC5852C1E64074F00CA4E02 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		2EC5852E1E64074F00CA4E02 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		2EC5852E1E64074F00CA4E02 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "prefect-log/Assets.xcassets"; sourceTree = SOURCE_ROOT; };
 		2EC585311E64074F00CA4E02 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		2EC585331E64074F00CA4E02 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2EC585331E64074F00CA4E02 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Info.plist; path = "prefect-log/Info.plist"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,8 +94,9 @@
 				2E726F5B1E6D31CE008E306A /* IQToolbar */,
 				2E726F611E6D31CE008E306A /* Resources */,
 			);
-			path = IQKeyboardManagerSwift;
-			sourceTree = "<group>";
+			name = IQKeyboardManagerSwift;
+			path = "prefect-log/IQKeyboardManagerSwift";
+			sourceTree = SOURCE_ROOT;
 		};
 		2E726F4C1E6D31CE008E306A /* Categories */ = {
 			isa = PBXGroup;
@@ -161,7 +162,7 @@
 				2EC585241E64074F00CA4E02 /* prefect-log.app */,
 			);
 			name = Products;
-			sourceTree = "<group>";
+			sourceTree = SOURCE_ROOT;
 		};
 		2EC585261E64074F00CA4E02 /* prefect-log */ = {
 			isa = PBXGroup;
@@ -180,9 +181,8 @@
 				2EC585331E64074F00CA4E02 /* Info.plist */,
 				2E5B9C3D1E729BE900DECDEA /* README.rtf */,
 			);
-			name = "prefect-log";
-			path = "/Users/bkunju/Documents/iosapps/prefect-log/prefect-log";
-			sourceTree = "<absolute>";
+			path = "prefect-log";
+			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
 
@@ -216,7 +216,7 @@
 				TargetAttributes = {
 					2EC585231E64074E00CA4E02 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = LUJZUX62WW;
+						DevelopmentTeam = 3GHSJ75993;
 						LastSwiftMigration = 0820;
 						ProvisioningStyle = Automatic;
 					};
@@ -303,7 +303,8 @@
 				2EC585311E64074F00CA4E02 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
+			path = "prefect-log";
+			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXVariantGroup section */
 
@@ -404,9 +405,9 @@
 		2EC585371E64074F00CA4E02 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				DEVELOPMENT_TEAM = LUJZUX62WW;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 3GHSJ75993;
 				INFOPLIST_FILE = "prefect-log/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.xcodetour.myxcodetour.prefect-log";
@@ -421,9 +422,9 @@
 		2EC585381E64074F00CA4E02 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				DEVELOPMENT_TEAM = LUJZUX62WW;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 3GHSJ75993;
 				INFOPLIST_FILE = "prefect-log/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.xcodetour.myxcodetour.prefect-log";
