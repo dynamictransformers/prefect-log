@@ -1,0 +1,3 @@
+# Exclude the vendor directory where go dependencies are stored. It is recreated by running the dependency tool (glide)
+vendor/
+
